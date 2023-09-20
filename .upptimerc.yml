@@ -39,6 +39,7 @@ sites:
     url: http://wentworthct.com/
 
 status-website:
+  title: 3flowcreative Monitor
   baseUrl: /upptime
 
 # Upptime also supports notifications, assigning issues, and more
