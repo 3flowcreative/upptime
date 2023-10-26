@@ -79,19 +79,19 @@
     "url": "https://www.caretechfoundation.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.caretechfoundation.org.uk.ico",
     "slug": "care-tech-foundation",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1468,
-    "timeDay": 1137,
-    "timeWeek": 1364,
-    "timeMonth": 1475,
-    "timeYear": 1468,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
+    "time": 1475,
+    "timeDay": 1337,
+    "timeWeek": 1405,
+    "timeMonth": 1483,
+    "timeYear": 1475,
     "dailyMinutesDown": {
-      "2023-10-26": 10
+      "2023-10-26": 20
     }
   },
   {
