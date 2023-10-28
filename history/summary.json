@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/calibrationselect.co.uk.ico",
     "slug": "calibration-select",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.91%",
     "time": 1570,
     "timeDay": 735,
     "timeWeek": 889,
@@ -301,9 +301,9 @@
     "url": "http://wentworthct.com/",
     "icon": "https://icons.duckduckgo.com/ip3/wentworthct.com.ico",
     "slug": "wentworth-court",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.92%",
@@ -313,6 +313,7 @@
     "timeMonth": 3380,
     "timeYear": 3087,
     "dailyMinutesDown": {
+      "2023-10-28": 0,
       "2023-10-14": 17,
       "2023-10-09": 25
     }
