@@ -209,9 +209,9 @@
     "url": "https://kentfinance.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/kentfinance.co.uk.ico",
     "slug": "kent-finance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -221,6 +221,7 @@
     "timeMonth": 2897,
     "timeYear": 2126,
     "dailyMinutesDown": {
+      "2023-11-14": 0,
       "2023-10-04": 16
     }
   },
@@ -304,13 +305,13 @@
     "status": "up",
     "uptime": "99.47%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.10%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "99.47%",
     "time": 3928,
     "timeDay": 1549,
-    "timeWeek": 2224,
-    "timeMonth": 4455,
+    "timeWeek": 1770,
+    "timeMonth": 4508,
     "timeYear": 3928,
     "dailyMinutesDown": {
       "2023-11-07": 38,
