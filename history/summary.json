@@ -4,36 +4,40 @@
     "url": "https://aldanatcare.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/aldanatcare.co.uk.ico",
     "slug": "aldanat-care",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1568,
     "timeDay": 1209,
     "timeWeek": 1291,
     "timeMonth": 1633,
     "timeYear": 1568,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 6
+    }
   },
   {
     "name": "Amazon Tours Plan",
     "url": "https://plan.amazontours.travel/",
     "icon": "https://icons.duckduckgo.com/ip3/plan.amazontours.travel.ico",
     "slug": "amazon-tours-plan",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1377,
     "timeDay": 1223,
     "timeWeek": 1331,
     "timeMonth": 1376,
     "timeYear": 1377,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 6
+    }
   },
   {
     "name": "Blissful Care Homes",
@@ -80,11 +84,11 @@
     "url": "https://www.caretechfoundation.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.caretechfoundation.org.uk.ico",
     "slug": "care-tech-foundation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 1453,
     "timeDay": 1682,
@@ -92,6 +96,7 @@
     "timeMonth": 1407,
     "timeYear": 1453,
     "dailyMinutesDown": {
+      "2023-12-05": 5,
       "2023-10-26": 20
     }
   },
@@ -118,36 +123,40 @@
     "url": "https://casterbridgemanor.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/casterbridgemanor.co.uk.ico",
     "slug": "casterbridge-manor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 635,
     "timeDay": 526,
     "timeWeek": 628,
     "timeMonth": 651,
     "timeYear": 635,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 4
+    }
   },
   {
     "name": "Casterbridge Lodge",
     "url": "https://casterbridgelodge.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/casterbridgelodge.co.uk.ico",
     "slug": "casterbridge-lodge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 626,
     "timeDay": 521,
     "timeWeek": 609,
     "timeMonth": 644,
     "timeYear": 626,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 3
+    }
   },
   {
     "name": "Capricorn Beach Cottages",
@@ -194,28 +203,30 @@
     "url": "https://goldenkeyestates.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/goldenkeyestates.co.uk.ico",
     "slug": "golden-key-estates",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 776,
     "timeDay": 492,
     "timeWeek": 746,
     "timeMonth": 754,
     "timeYear": 776,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 3
+    }
   },
   {
     "name": "Kent Finance",
     "url": "https://kentfinance.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/kentfinance.co.uk.ico",
     "slug": "kent-finance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 1816,
@@ -224,6 +235,7 @@
     "timeMonth": 2381,
     "timeYear": 1816,
     "dailyMinutesDown": {
+      "2023-12-05": 2,
       "2023-11-14": 13,
       "2023-10-04": 16
     }
@@ -269,10 +281,10 @@
     "url": "https://prominenceproperty.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/prominenceproperty.co.uk.ico",
     "slug": "prominence-property",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 961,
@@ -280,17 +292,19 @@
     "timeWeek": 779,
     "timeMonth": 888,
     "timeYear": 961,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 1
+    }
   },
   {
     "name": "Student Key Estates",
     "url": "https://studentkeyestates.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/studentkeyestates.co.uk.ico",
     "slug": "student-key-estates",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1105,
@@ -298,25 +312,28 @@
     "timeWeek": 1073,
     "timeMonth": 1116,
     "timeYear": 1105,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 1
+    }
   },
   {
     "name": "Wentworth Court",
     "url": "http://wentworthct.com/",
     "icon": "https://icons.duckduckgo.com/ip3/wentworthct.com.ico",
     "slug": "wentworth-court",
-    "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.39%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.21%",
     "uptimeMonth": "99.29%",
-    "uptimeYear": "99.38%",
+    "uptimeYear": "99.39%",
     "time": 4349,
     "timeDay": 11236,
     "timeWeek": 6090,
     "timeMonth": 4867,
     "timeYear": 4349,
     "dailyMinutesDown": {
+      "2023-12-05": 0,
       "2023-12-03": 35,
       "2023-12-02": 10,
       "2023-12-01": 69,
