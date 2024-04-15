@@ -248,19 +248,19 @@
     "url": "https://jksm.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/jksm.org.uk.ico",
     "slug": "jksm",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 709,
-    "timeDay": 1706,
-    "timeWeek": 868,
-    "timeMonth": 717,
-    "timeYear": 709,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 797,
+    "timeDay": 3277,
+    "timeWeek": 1485,
+    "timeMonth": 890,
+    "timeYear": 797,
     "dailyMinutesDown": {
-      "2024-04-15": 12
+      "2024-04-15": 21
     }
   },
   {
