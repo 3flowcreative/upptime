@@ -248,10 +248,10 @@
     "url": "https://jksm.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/jksm.org.uk.ico",
     "slug": "jksm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 709,
@@ -260,7 +260,7 @@
     "timeMonth": 717,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2024-04-15": 11
+      "2024-04-15": 12
     }
   },
   {
