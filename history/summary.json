@@ -248,10 +248,10 @@
     "url": "https://jksm.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/jksm.org.uk.ico",
     "slug": "jksm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 676,
@@ -259,7 +259,9 @@
     "timeWeek": 588,
     "timeMonth": 649,
     "timeYear": 676,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-15": 1
+    }
   },
   {
     "name": "Kent Finance",
@@ -296,9 +298,9 @@
     "slug": "precious",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 823,
     "timeDay": 591,
@@ -306,7 +308,7 @@
     "timeMonth": 687,
     "timeYear": 823,
     "dailyMinutesDown": {
-      "2024-04-15": 1,
+      "2024-04-15": 20,
       "2024-02-12": 10,
       "2024-01-14": 11
     }
